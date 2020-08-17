@@ -84,7 +84,6 @@ WORKDIR /root/userbot/
 ENV PATH="/root/userbot/.bin:$PATH"
 WORKDIR /root/userbot/
 
-
 #
 # Copies session and config (if it exists)
 #
