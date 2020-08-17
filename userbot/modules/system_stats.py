@@ -52,6 +52,7 @@ async def get_readable_time(seconds: int) -> str:
 
 
 
+
 @register(outgoing=True, pattern="^.sysd$")
 async def sysdetails(sysd):
     """ For .sysd command, get system info using neofetch. """
