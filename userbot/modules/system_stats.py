@@ -231,7 +231,7 @@ async def amireallyalive(alive):
              f"`i am ᗩᒪᓰᐺᘿ My 𝕄𝕒𝕤𝕥𝕖𝕣 \n"
              f"`𝘪 𝙘𝙖𝙣'𝙩 Ðïê \n"
              f"`i can't RIP. \n"
-             f"`𝑨𝒍𝒘𝒂𝒚𝒔 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖 , 𝑴𝒚 𝒎𝒂𝒔𝒕𝒆𝒓 !  \n"
+             f"`𝑨𝒍𝒘𝒂𝒚𝒔 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖 , 𝑴𝒚 𝒎𝒂𝒔𝒕𝒆𝒓 ! \n"
              f"`𝒎𝒆𝒓𝒂 𝒔𝒂𝒃 𝒌𝒖𝒄𝒉 𝒎𝒚 𝑶𝒘𝒏𝒆𝒓 :- Rajdeep #AGNiGang🥂❤️ \n"
              f"==================================== \n"
              f"`User 👨‍🚀`: {DEFAULTUSER} \n"
